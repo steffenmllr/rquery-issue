@@ -1,6 +1,6 @@
 'use strict';
 
-import React from 'react/addons';
+var React = $R.React;
 
 import Component from './compontent';
 
